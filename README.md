@@ -15,3 +15,9 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
    </div>
     
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h2 align="center">sOBRE</h2>
+      <H1><Entusiasta de tecnologia e desenvolvedor com 16 anos, especializado em HTML, CSS, JavaScript, Java, Python, PHP e SQL. Tenho um histórico de criação de soluções web inovadoras e também de visualização de dados com um projeto utilizando Power BI. Meu objetivo é seguir carreira como cientista de dados./H1>
+   </div>
